@@ -1,0 +1,41 @@
+<div>
+    <div class="row">
+        <label>Rider:</label>
+        <select ng-model='selected_rider' ng-options='rider as rider.Name for rider in riders' ng-change="filter_results(rider)"></select>
+    </div>
+    <div class="row">
+        <table class="table table-striped">
+            <tr>
+                <td>Club</td>
+                <td>{{selected_rider.Club}}</td>
+            </tr>
+            <tr>
+                <td>Raced</td>
+                <td>{{selected_rider.Raced}}</td>
+            </tr>
+            <tr>
+                <td>Best Position</td>
+                <td>{{selected_rider.BestPosition | ordinal}}</td>
+            </tr>
+        </table>
+    </div>
+    <div class="row">
+        <label>Results:</label>
+        <table st-table="displayCollection" st-safe-src="rider_results" class="table table-striped">
+            <tr>
+                <th st-sort="Course" st-skip-natural="true" class="sortable">Course</th>
+                <th st-sort="TotalTime" st-skip-natural="true" class="sortable">Time</th>
+                <th st-sort="Position" st-skip-natural="true" class="sortable">Position</th>
+                <th st-sort="Date" st-skip-natural="true" class="sortable">Date</th>
+                <th st-sort="TimeBehindLeader" st-sort-default="reverse" st-skip-natural="true" class="sortable">Time Behind Leader</th>
+            </tr>
+            <tr ng-repeat="result in rider_results">
+                <td>{{result.Course}}</td>
+                <td>{{result.TotalTime * 1000 | date: 'HH:mm:ss'}}</td>
+                <td>{{result.Position | ordinal}}</td>
+                <td>{{result.Date | date: 'longDate' }}</td>
+                <td>{{result.TimeBehindLeader * 1000 | date: 'HH:mm:ss' }}</td>
+            </tr>
+        </table>
+    </div>
+</div>

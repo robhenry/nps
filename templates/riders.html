@@ -1,0 +1,20 @@
+<table st-table="displayCollection" st-safe-src="riders" class="table table-striped">
+	<thead>
+	<tr>
+		<th st-sort="Name" st-skip-natural="true" class="sortable">Name</th>
+		<th st-sort="Club" st-skip-natural="true" class="sortable">Club</th>
+		<th st-sort="Raced" st-skip-natural="true" class="sortable">Raced</th>
+		<th st-sort="Points" st-sort-default="reverse" st-skip-natural="true" class="sortable">Points</th>
+        <th st-sort="Overall" st-skip-natural="true" class="sortable">Overall</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr ng-repeat="row in displayCollection">
+		<td>{{row.Name}}</td>
+		<td>{{row.Club}}</td>
+		<td>{{row.Raced}}</td>
+		<td>{{row.Points}}</td>
+		<td>{{row.Overall}}</td>
+	</tr>
+	</tbody>
+</table>

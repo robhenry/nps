@@ -1,0 +1,547 @@
+{
+    "Course":"Ticknock",
+    "Date":"2015-06-28T00:00:00.000Z",
+    "Results":
+    [
+        {
+            "Name":"Anthony Finn",
+            "Club":"Killarney Cycling Club",
+            "Position":1,
+            "TotalTime":3883,
+            "InLap":720,
+            "Lap1":1040,
+            "Lap2":1076,
+            "Lap3":1046
+        },
+        {
+            "Name":"Nigel Glynn",
+            "Club":"Naas Cycling Club",
+            "Position":2,
+            "TotalTime":3884,
+            "InLap":723,
+            "Lap1":1042,
+            "Lap2":1087,
+            "Lap3":1030
+        },
+        {
+            "Name":"David O'carroll",
+            "Club":"Irish RC",
+            "Position":3,
+            "TotalTime":3950,
+            "InLap":722,
+            "Lap1":1048,
+            "Lap2":1074,
+            "Lap3":1104
+        },
+        {
+            "Name":"Richard Maes",
+            "Club":"Killarney Cycling Club",
+            "Position":4,
+            "TotalTime":3967,
+            "InLap":722,
+            "Lap1":1045,
+            "Lap2":1104,
+            "Lap3":1095
+        },
+        {
+            "Name":"Derrick Evans",
+            "Club":"Serc MTB",
+            "Position":5,
+            "TotalTime":4043,
+            "InLap":724,
+            "Lap1":1106,
+            "Lap2":1109,
+            "Lap3":1103
+        },
+        {
+            "Name":"Redmond O'Toole",
+            "Club":"Team WORC",
+            "Position":6,
+            "TotalTime":4112,
+            "InLap":723,
+            "Lap1":1104,
+            "Lap2":1131,
+            "Lap3":1152
+        },
+        {
+            "Name":"Alan Ayling",
+            "Club":"Gravity BC",
+            "Position":7,
+            "TotalTime":4119,
+            "InLap":727,
+            "Lap1":1144,
+            "Lap2":1137,
+            "Lap3":1111
+        },
+        {
+            "Name":"Colm Pattison",
+            "Club":"Epic MTB / Expert Cycles",
+            "Position":8,
+            "TotalTime":4125,
+            "InLap":723,
+            "Lap1":1120,
+            "Lap2":1144,
+            "Lap3":1136
+        },
+        {
+            "Name":"Patrick Santini",
+            "Club":"IMBRC",
+            "Position":9,
+            "TotalTime":4127,
+            "InLap":731,
+            "Lap1":1126,
+            "Lap2":1146,
+            "Lap3":1122
+        },
+        {
+            "Name":"Dave Egan",
+            "Club":"Gravity BC",
+            "Position":10,
+            "TotalTime":4161,
+            "InLap":719,
+            "Lap1":1101,
+            "Lap2":1199,
+            "Lap3":1139
+        },
+        {
+            "Name":"Christopher Evans",
+            "Club":"Team WORC",
+            "Position":11,
+            "TotalTime":4172,
+            "InLap":728,
+            "Lap1":1152,
+            "Lap2":1159,
+            "Lap3":1132
+        },
+        {
+            "Name":"Rob Whelan",
+            "Club":"*Unattached*",
+            "Position":12,
+            "TotalTime":4207,
+            "InLap":729,
+            "Lap1":1153,
+            "Lap2":1179,
+            "Lap3":1146
+        },
+        {
+            "Name":"David Broome",
+            "Club":"Dromara Cycling Club",
+            "Position":13,
+            "TotalTime":4216,
+            "InLap":740,
+            "Lap1":1203,
+            "Lap2":1147,
+            "Lap3":1125
+        },
+        {
+            "Name":"Andrew Mccabe",
+            "Club":"*Unattached*",
+            "Position":14,
+            "TotalTime":4270,
+            "InLap":731,
+            "Lap1":1170,
+            "Lap2":1181,
+            "Lap3":1186
+        },
+        {
+            "Name":"Colin O'Donoghue",
+            "Club":"Killarney Cycling Club",
+            "Position":15,
+            "TotalTime":4282,
+            "InLap":723,
+            "Lap1":1131,
+            "Lap2":1201,
+            "Lap3":1225
+        },
+        {
+            "Name":"Brian Melia",
+            "Club":"MTB Assoc of Dublin",
+            "Position":16,
+            "TotalTime":4324,
+            "InLap":729,
+            "Lap1":1154,
+            "Lap2":1193,
+            "Lap3":1246
+        },
+        {
+            "Name":"David Conway",
+            "Club":"Racing 795",
+            "Position":17,
+            "TotalTime":4340,
+            "InLap":724,
+            "Lap1":1164,
+            "Lap2":1215,
+            "Lap3":1236
+        },
+        {
+            "Name":"Vincent Colgan",
+            "Club":"Park Wheelers",
+            "Position":18,
+            "TotalTime":4374,
+            "InLap":735,
+            "Lap1":1219,
+            "Lap2":1208,
+            "Lap3":1211
+        },
+        {
+            "Name":"Kyle Malle",
+            "Club":"NWCC",
+            "Position":19,
+            "TotalTime":4381,
+            "InLap":736,
+            "Lap1":1216,
+            "Lap2":1221,
+            "Lap3":1207
+        },
+        {
+            "Name":"Piotr Leczycki",
+            "Club":"MTB Assoc of Dublin",
+            "Position":20,
+            "TotalTime":4421,
+            "InLap":735,
+            "Lap1":1231,
+            "Lap2":1213,
+            "Lap3":1241
+        },
+        {
+            "Name":"Ruari Devoy",
+            "Club":"Epic MTB / Expert Cycles",
+            "Position":21,
+            "TotalTime":4424,
+            "InLap":735,
+            "Lap1":1192,
+            "Lap2":1233,
+            "Lap3":1262
+        },
+        {
+            "Name":"Cliff Andy",
+            "Club":"SERE",
+            "Position":22,
+            "TotalTime":4427,
+            "InLap":740,
+            "Lap1":1242,
+            "Lap2":1213,
+            "Lap3":1231
+        },
+        {
+            "Name":"David Dunne",
+            "Club":"IMBRC",
+            "Position":23,
+            "TotalTime":4463,
+            "InLap":728,
+            "Lap1":1216,
+            "Lap2":1260,
+            "Lap3":1257
+        },
+        {
+            "Name":"Aaron McCann",
+            "Club":"Cuchulainn CC",
+            "Position":24,
+            "TotalTime":4476,
+            "InLap":729,
+            "Lap1":1248,
+            "Lap2":1267,
+            "Lap3":1230
+        },
+        {
+            "Name":"Adrian Finnegan",
+            "Club":"Xmtb McConvey Cycles",
+            "Position":25,
+            "TotalTime":4527,
+            "InLap":724,
+            "Lap1":1218,
+            "Lap2":1331,
+            "Lap3":1252
+        },
+        {
+            "Name":"Donough O'Keeffe",
+            "Club":"Epic MTB / Expert Cycles",
+            "Position":26,
+            "TotalTime":4546,
+            "InLap":734,
+            "Lap1":1230,
+            "Lap2":1288,
+            "Lap3":1293
+        },
+        {
+            "Name":"Thomas Gallery",
+            "Club":"MTB Assoc of Dublin",
+            "Position":27,
+            "TotalTime":4552,
+            "InLap":727,
+            "Lap1":1235,
+            "Lap2":1317,
+            "Lap3":1272
+        },
+        {
+            "Name":"William Barclay",
+            "Club":"Xmtb McConvey Cycles",
+            "Position":28,
+            "TotalTime":4578,
+            "InLap":725,
+            "Lap1":1229,
+            "Lap2":1319,
+            "Lap3":1304
+        },
+        {
+            "Name":"Brian McElwee",
+            "Club":"Racing 795",
+            "Position":29,
+            "TotalTime":4578,
+            "InLap":738,
+            "Lap1":1264,
+            "Lap2":1292,
+            "Lap3":1283
+        },
+        {
+            "Name":"Gerard Ferrity",
+            "Club":"Island Wheelers",
+            "Position":30,
+            "TotalTime":4607,
+            "InLap":739,
+            "Lap1":1263,
+            "Lap2":1303,
+            "Lap3":1301
+        },
+        {
+            "Name":"Leo McGarr",
+            "Club":"IMBRC",
+            "Position":31,
+            "TotalTime":4646,
+            "InLap":737,
+            "Lap1":1311,
+            "Lap2":1273,
+            "Lap3":1324
+        },
+        {
+            "Name":"Cieran Maunsell",
+            "Club":"Team Ballyhoura",
+            "Position":32,
+            "TotalTime":4680,
+            "InLap":739,
+            "Lap1":1333,
+            "Lap2":1313,
+            "Lap3":1293
+        },
+        {
+            "Name":"Kenneth Mulvey",
+            "Club":"Epic MTB / Expert Cycles",
+            "Position":33,
+            "TotalTime":4727,
+            "InLap":739,
+            "Lap1":1311,
+            "Lap2":1334,
+            "Lap3":1343
+        },
+        {
+            "Name":"David Furlong",
+            "Club":"Racing 795",
+            "Position":34,
+            "TotalTime":4746,
+            "InLap":739,
+            "Lap1":1315,
+            "Lap2":1336,
+            "Lap3":1354
+        },
+        {
+            "Name":"Robert Kehoe",
+            "Club":"Fixx Rouleurs",
+            "Position":35,
+            "TotalTime":4749,
+            "InLap":739,
+            "Lap1":1320,
+            "Lap2":1328,
+            "Lap3":1361
+        },
+        {
+            "Name":"Nigel Dunne",
+            "Club":"MTB Assoc of Dublin",
+            "Position":36,
+            "TotalTime":4750,
+            "InLap":725,
+            "Lap1":1264,
+            "Lap2":1360,
+            "Lap3":1400
+        },
+        {
+            "Name":"Robert Davison",
+            "Club":"Dromara Cycling Club",
+            "Position":37,
+            "TotalTime":4767,
+            "InLap":730,
+            "Lap1":1288,
+            "Lap2":1339,
+            "Lap3":1409
+        },
+        {
+            "Name":"Brian Kellett",
+            "Club":"Lakeland",
+            "Position":38,
+            "TotalTime":4770,
+            "InLap":726,
+            "Lap1":1378,
+            "Lap2":1333,
+            "Lap3":1332
+        },
+        {
+            "Name":"Dave Gaffney",
+            "Club":"MTB Assoc of Dublin",
+            "Position":39,
+            "TotalTime":4772,
+            "InLap":737,
+            "Lap1":1320,
+            "Lap2":1340,
+            "Lap3":1373
+        },
+        {
+            "Name":"Gary Kidson",
+            "Club":"Epic MTB / Expert Cycles",
+            "Position":40,
+            "TotalTime":4802,
+            "InLap":753,
+            "Lap1":1362,
+            "Lap2":1363,
+            "Lap3":1323
+        },
+        {
+            "Name":"Craig Malloy",
+            "Club":"Fixx Rouleurs",
+            "Position":41,
+            "TotalTime":4822,
+            "InLap":745,
+            "Lap1":1327,
+            "Lap2":1334,
+            "Lap3":1415
+        },
+        {
+            "Name":"Vincent Price",
+            "Club":"Bray Wheelers",
+            "Position":42,
+            "TotalTime":4824,
+            "InLap":744,
+            "Lap1":1333,
+            "Lap2":1348,
+            "Lap3":1398
+        },
+        {
+            "Name":"Ian Jackson",
+            "Club":"IMBRC",
+            "Position":43,
+            "TotalTime":4845,
+            "InLap":742,
+            "Lap1":1337,
+            "Lap2":1406,
+            "Lap3":1358
+        },
+        {
+            "Name":"Paul Crowley",
+            "Club":"Lakeside Whs Mullingar",
+            "Position":44,
+            "TotalTime":4859,
+            "InLap":741,
+            "Lap1":1371,
+            "Lap2":1387,
+            "Lap3":1359
+        },
+        {
+            "Name":"Paul Barry",
+            "Club":"IMBRC",
+            "Position":45,
+            "TotalTime":4922,
+            "InLap":738,
+            "Lap1":1333,
+            "Lap2":1414,
+            "Lap3":1436
+        },
+        {
+            "Name":"Neville Molloy",
+            "Club":"MTB Assoc of Dublin",
+            "Position":46,
+            "TotalTime":4943,
+            "InLap":745,
+            "Lap1":1359,
+            "Lap2":1398,
+            "Lap3":1439
+        },
+        {
+            "Name":"Fergus McCann",
+            "Club":"Cuchulainn CC",
+            "Position":47,
+            "TotalTime":4946,
+            "InLap":736,
+            "Lap1":1367,
+            "Lap2":1417,
+            "Lap3":1424
+        },
+        {
+            "Name":"Simon Mulvey",
+            "Club":"*Unattached*",
+            "Position":48,
+            "TotalTime":4964,
+            "InLap":747,
+            "Lap1":1383,
+            "Lap2":1370,
+            "Lap3":1463
+        },
+        {
+            "Name":"Eugene Kennedy",
+            "Club":"Team Giant Dublin",
+            "Position":49,
+            "TotalTime":4985,
+            "InLap":747,
+            "Lap1":1330,
+            "Lap2":1445,
+            "Lap3":1462
+        },
+        {
+            "Name":"Sean Mackessy",
+            "Club":"MTB Assoc of Dublin",
+            "Position":50,
+            "TotalTime":5121,
+            "InLap":733,
+            "Lap1":1378,
+            "Lap2":1477,
+            "Lap3":1532
+        },
+        {
+            "Name":"Gareth Skelly",
+            "Club":"Carn Wheelers",
+            "Position":51,
+            "TotalTime":5125,
+            "InLap":756,
+            "Lap1":1384,
+            "Lap2":1463,
+            "Lap3":1520
+        },
+        {
+            "Name":"David O'carroll",
+            "Club":"Great Dublin",
+            "Position":52,
+            "TotalTime":5241,
+            "InLap":743,
+            "Lap1":1394,
+            "Lap2":1579,
+            "Lap3":1523
+        },
+        {
+            "Name":"Jonathon Eaton",
+            "Club":"IMBRC",
+            "Position":53,
+            "TotalTime":5274,
+            "InLap":741,
+            "Lap1":1433,
+            "Lap2":1517,
+            "Lap3":1580
+        },
+        {
+            "Name":"John Timmins",
+            "Club":"Team Giant Dublin",
+            "Position":54,
+            "TotalTime":5872,
+            "InLap":752,
+            "Lap1":1478,
+            "Lap2":1592,
+            "Lap3":2048
+        }
+    ]
+}
